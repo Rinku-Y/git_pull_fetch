@@ -1,0 +1,2 @@
+Hello Guys,
+We are going to learn about the git pull and fetch commands
